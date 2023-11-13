@@ -9,7 +9,7 @@
 
 <script>
 import HeaderComponent from '@/components/HeaderComponent.vue'
-import FooterComponent from '../../../../HW_VueJS_4/layout/src/components/FooterComponent.vue'
+import FooterComponent from '../components/FooterComponent.vue'
 import ProjectPageBaner from '../components/pagesComponents/ProjectPage/ProjectPageBaner.vue'
 import ProjectPageContent from '../components/pagesComponents/ProjectPage/ProjectPageContent.vue'
 
